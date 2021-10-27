@@ -1,2 +1,5 @@
-# discord
-Postagens (Embed) e Logs de nosso Servidor Oficial no Discord
+# Repositório de nosso Discord
+
+# Visão geral
+- Postagens (Embed)
+- Logs (Públicos e Privados)
