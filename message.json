@@ -1,0 +1,23 @@
+{
+  "username": "Spoilers",
+  "avatar_url": "https://cdn.discordapp.com/attachments/753599818479173814/893146127380144158/fotosdoservidor.001.png",
+  "content": "@everyone",
+  "embeds": [
+    {
+      "title": "Programação semanal 👀 📺",
+      "color": 65322,
+      "description": "Fiquei sabendo que nos próximos dias a GamerContent vai anunciar sua programação semanal! E o melhor, vai ser tudo gratuito! 🥳",
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/753599818479173814/893461036424904714/spoilers.001.png"
+      },
+      "thumbnail": {},
+      "footer": {
+        "text": "GamerContent - Todos os direitos reservados"
+      },
+      "fields": []
+    }
+  ],
+  "components": []
+}
