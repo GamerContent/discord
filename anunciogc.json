@@ -1,0 +1,23 @@
+{
+  "username": "Chegou!",
+  "avatar_url": "https://cdn.discordapp.com/attachments/762078984590065677/892908864738058280/fotodoservidor.001.png",
+  "content": "@everyone",
+  "embeds": [
+    {
+      "title": "Chegoooooou!",
+      "color": 670069,
+      "description": "Chegou a GamerContent, comunidade gamer para todos!",
+      "timestamp": "",
+      "author": {},
+      "image": {
+        "url": "https://cdn.discordapp.com/attachments/753599818479173814/893144760129306624/gifgc.gif"
+      },
+      "thumbnail": {},
+      "footer": {
+        "text": "GamerContent - Todos os direitos reservados"
+      },
+      "fields": []
+    }
+  ],
+  "components": []
+}
