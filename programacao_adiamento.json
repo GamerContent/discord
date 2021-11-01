@@ -1,0 +1,19 @@
+{
+  "username": "Avisos",
+  "avatar_url": "https://cdn.discordapp.com/attachments/753599818479173814/893146127380144158/fotosdoservidor.001.png",
+  "content": "@here",
+  "embeds": [
+    {
+      "title": "Aviso (Programação semanal)",
+      "color": 9370112,
+      "description": "Hoje estrearia nosso primeiro episódio do Podcast Conversa Content, porém decidimos (por causa do feriado) levar a estreia para a semana que vêm. \nPorém nessa sexta-feira, temos o primeiro episódio do **gcnews**\n\nContamos com você",
+      "timestamp": "",
+      "author": {},
+      "image": {},
+      "thumbnail": {},
+      "footer": {},
+      "fields": []
+    }
+  ],
+  "components": []
+}
